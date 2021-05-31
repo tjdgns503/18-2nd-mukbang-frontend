@@ -9,7 +9,6 @@
 - 백엔드: 김택향, 이호열 
 
 ## 사용 기술
-
 - 👉 React / React Hooks / React Router
 - 👉 Styled Components
 - 👉 SASS, SCSS
@@ -19,6 +18,7 @@
 - 카카오 로그인 API를 이용한 카카오 계정 로그인 및 자체 회원가입(문자인증) 기능
 - Kakao Map API 를 활용하여 가게 리스트 마커, 커스텀 오버레이 표시, 검색에 따른 좌표 이동, 클러스터 기능 사용
 - 검색,필터 및 가격 범위 지정 기능 구현
+- StoreList 및 StoreDetail UI 구현
 - 리뷰, 상점 등록 기능구현
 
 ## 결과
