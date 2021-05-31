@@ -22,5 +22,27 @@
 - 리뷰, 상점 등록 기능구현
 
 ## 결과
+- 로그인 및 회원가입(✔)
+  카카오 로그인 API 사용 및 문자인증 기능, 컴포넌트 재사용
+![1](https://user-images.githubusercontent.com/67726570/120156978-7f4cf980-c22d-11eb-85dc-8345c7cd6c59.png)
+  
+- 홈/메인페이지
 
+![2](https://user-images.githubusercontent.com/67726570/120157211-b9b69680-c22d-11eb-83c0-713546267456.png)
 
+- 지도 및 가게 리스트(✔)
+- 
+  업로드 예정
+  
+- 가게 정보 
+
+![3](https://user-images.githubusercontent.com/67726570/120157395-f2567000-c22d-11eb-9842-412d232d4068.png)
+![4](https://user-images.githubusercontent.com/67726570/120157411-f4b8ca00-c22d-11eb-82aa-d7cc3d89a269.png)
+
+- 찜함 가게
+
+![5](https://user-images.githubusercontent.com/67726570/120157462-069a6d00-c22e-11eb-803e-9c905e44aa30.png)
+
+- 가게 등록
+
+![6](https://user-images.githubusercontent.com/67726570/120157537-17e37980-c22e-11eb-885a-107d41dc7daf.png)
