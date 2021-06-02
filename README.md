@@ -33,7 +33,8 @@
 
 - 지도 및 가게 리스트(✔)
 
-  업로드 예정
+<img width="1440" alt="스크린샷 2021-06-02 오후 3 32 39" src="https://user-images.githubusercontent.com/67726570/120434923-04fcb080-c3b8-11eb-8079-df7d52e8d816.png">
+
   
 - 가게 정보 
 
